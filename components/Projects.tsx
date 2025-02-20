@@ -22,7 +22,7 @@ const projects = [
     image: "/projects/Vaultyy.webp",
     technologies: "Next.js, TailwindCSS",
     status: "view",
-    link: "https://vaultyy.vercel.app",
+    link: "https://vaultdev.vercel.app",
   },
   {
     title: "V",
